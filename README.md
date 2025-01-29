@@ -1,4 +1,4 @@
-# Git Hunt - List Comprehension
+# List Comprehension
 
 ## Overview
 This repository explores **List Comprehension** in Python, providing concise and efficient ways to create and manipulate lists. It includes explanations, examples, and best practices.
